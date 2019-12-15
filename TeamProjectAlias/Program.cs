@@ -10,6 +10,7 @@ namespace TeamProjectAlias
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("kfe");
         }
     }
 }
